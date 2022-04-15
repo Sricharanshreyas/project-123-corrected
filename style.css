@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+ 
+}
+.heading{
+    box-shadow: 5px 5px 5px burlywood;
+    width: 100%;
+}
+.footer{
+    position:fixed;
+    bottom:0%;
+    height:30px;
+    width: 100%;
+    background-color: chartreuse;
+}
+.note{
+   font-size: 15px;
+   color: black; 
+}
+canvas{
+   
+    background-color: white;
+    box-shadow: 5px 5px 5px orange inset, 5px 10px 5px greenyellow inset ;
+} 
